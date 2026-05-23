@@ -1,0 +1,5 @@
+pl\pjatk\rentalservice\controller\RentalController.class
+pl\pjatk\rentalservice\model\Movie.class
+pl\pjatk\rentalservice\service\RentalService.class
+pl\pjatk\rentalservice\config\RestTemplateConfig.class
+pl\pjatk\rentalservice\RentalServiceApplication.class
